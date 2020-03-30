@@ -1,8 +1,8 @@
 <?php
- 	echo "Hello Mundo!";
-  
-  echo "Olá Marcos!";
-  echo "Você está iniciando um curso de PHP!";
-  echo "Vê se agora termina";
+
+
+for ($i=0;$i<=4;$i++){
+    echo "<tr><td><img src="01.jpg" width="800" height="800"/></td></tr>";
+}
 
 ?>
